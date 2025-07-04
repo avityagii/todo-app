@@ -1,0 +1,21 @@
+h1{
+  font-weight: 700;
+  font-size: 45px;
+  margin:10px;
+  margin-bottom: 25px;
+}
+input{
+  width: 100%;
+}
+.container{
+  margin: 10px;
+}
+.col-4{
+  text-align: left;
+}
+.col-2 button{
+  font-size: 20px;
+  width: 100%;
+  text-align: center;
+}
+
