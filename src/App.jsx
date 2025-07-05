@@ -5,23 +5,13 @@ import AddTodo from "./components/AddTodo";
 
 function App() {
 
-  const todoItems = [
-    {
-      name:"Buy Milk",
-      dueDate:"04/10/2025"
-    },
-    {
-      name:"Go To School",
-      dueDate:"04/10/2025"
-    }
-  ]
   
 
   return (
-    <center>
+    <center className="row-container">
     <AppName />
     <AddTodo />
-    <TodoItems todoItems = {todoItems} />
+    <TodoItems/>
     </center>
   )
 }
