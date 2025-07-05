@@ -16,7 +16,7 @@
 
 ## Project Setup
 
-`npm create vite@latest Todo-APP`
-`npm i bootstrap@5.3.7`
-`cd Todo-APP` 
-`npm run dev`
+```npm create vite@latest Todo-APP
+npm i bootstrap@5.3.7
+cd Todo-APP
+npm run dev```
