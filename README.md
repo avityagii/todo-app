@@ -10,7 +10,7 @@
 
 # Run Project
 <p>In the project directory, you can run:</p>
-`npm run dev`
+```npm run dev
 <p>Runs the app in the development mode.</p>
 <p>Open <a href="http://localhost:5173/">http://localhost:5173/</a> to view it in your browser.</p>
 
@@ -19,4 +19,4 @@
 ```npm create vite@latest Todo-APP
 npm i bootstrap@5.3.7
 cd Todo-APP
-npm run dev```
+npm run dev
